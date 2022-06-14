@@ -1,1 +1,5 @@
-Comandos para lembrar
+ Comandos para lembrar
+Git Status
+Git Add .
+Git Commit -M (descrição)
+Git Push
